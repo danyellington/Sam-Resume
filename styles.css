@@ -1,0 +1,41 @@
+.contact-info {
+  font-size: 17px;
+  font-family: sans-serif;
+  color: teal;
+}
+
+.title {
+  color: red;
+  font-family: cursive;
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+.education {
+  font-size: 21px;
+  font-family: fantasy;
+  font-style: italic;
+  color: orange;
+}
+
+.skills {
+  font-size: 20px;
+  font-family: monospace;
+  font-weight: lighter;
+  color: lightblue;
+}
+
+.experience {
+  font-size: 19px;
+  font-kerning: normal;
+  font-variant: small-caps;
+  color: tan;
+  font-family: times;
+
+}
+
+.right {
+  text-align: right;
+  color: maroon;
+  display: block
+}
